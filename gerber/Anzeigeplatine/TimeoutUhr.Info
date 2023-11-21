@@ -1,0 +1,28 @@
+CAM-Ausgabe für aktuelles Projekt TimeoutUhr.T3001
+Ausgabe am 19. Mrz 2022, 17:20h
+Aktuelles Projekt erzeugt mit TARGET 20.7.0.42 smart
+Ausgabe erzeugt mit TARGET 3001! V20.7.0.42
+LIEFERANSCHRIFT:
+  
+  
+  
+  D- 
+  Tel: 
+  FAX: 
+  eMail: 
+Größe der Platine: 100 mm x 100 mm
+
+Folgend die Beschreibung der erzeugten Dateien:
+
+TimeoutUhr.Top = 16 = Kupfer oben L1   ( *.Top )
+TimeoutUhr.Bot = 2 = Kupfer unten L2   ( *.Bot )
+TimeoutUhr.Tool = Bohrerliste
+TimeoutUhr.Drill = Durchkontaktierte Bohrungen
+TimeoutUhr.Outline = 23 = Platinen-Umriss   ( *.Outline )
+TimeoutUhr.StopTop = 18 = Lötstoppmaske oben   ( *.StopTop )
+TimeoutUhr.StopBot = 4 = Lötstoppmaske unten   ( *.StopBot )
+TimeoutUhr.PosiTop = 21 = Bestückungsdruck oben   ( *.PosiTop )
+TimeoutUhr.PosiBot = 7 = Bestückungsdruck unten   ( *.PosiBot )
+TimeoutUhr.Apr = TARGET 3001! Blendenliste
+TimeoutUhr.Whl = Eagle kompatible Blendenliste
+
